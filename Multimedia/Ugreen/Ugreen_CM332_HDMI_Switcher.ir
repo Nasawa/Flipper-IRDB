@@ -9,7 +9,7 @@ Version: 1
 # The remote transmits 16-bit values in ESPHome (address=0xFD02, command=0xFA05/etc)
 # but the lower byte is data + upper byte is its bit-inverse — i.e. canonical NEC.
 #
-# Coverage: 4 buttons (Input 1, Input 2, Input 3, Next).
+# Coverage: 4 buttons (Input1, Input2, Input3, Next).
 #
 # NOTE: an existing UGREEN HDMI switch entry exists in this repo at
 # Multimedia/Ugreen/Ugreen_8k_hdmi_switch.ir with a different address (0x80)
