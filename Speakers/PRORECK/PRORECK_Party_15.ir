@@ -61,13 +61,13 @@ protocol: NEC
 address: FF 00 00 00
 command: F8 00 00 00
 #
-name: Dots_short
+name: Dot_1
 type: parsed
 protocol: NEC
 address: FF 00 00 00
 command: E6 00 00 00
 #
-name: Dots_long
+name: Dot_2
 type: parsed
 protocol: NEC
 address: FF 00 00 00
